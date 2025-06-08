@@ -1,2 +1,2 @@
-# Brain-Tumor
+# FashionMNIST
 Project submission for Agritech
